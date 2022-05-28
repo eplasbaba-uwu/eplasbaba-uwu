@@ -4,7 +4,7 @@
 - I’m looking to collaborate on web apps, and data science projects
 - How to reach me @eplasbaba_isawesome (instagram)
 - Advanced in Python
-- Recent Projects: Ethical hacking(penetration testing, port scanner, ping)
+- Recent Projects: Ethical hacking, check out my repository [here](https://github.com/eplasbaba-uwu/ethical-hacking)
 
 <!---
 eplasbaba-uwu/eplasbaba-uwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
